@@ -1,0 +1,5 @@
+classes= 1
+train  = drone_detection/mavicpro2_drone_dataset/train.txt
+valid  = drone_detection/mavicpro2_drone_dataset/test.txt
+names = drone_detection/mavicpro2_drone_dataset/obj.names
+backup = drone_detection/mavicpro2_drone_dataset/backup/
